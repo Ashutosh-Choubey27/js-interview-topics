@@ -10,6 +10,7 @@ Each file includes:
 ### Topics Covered
 
 - var vs let vs const
+- dataType and Type Coersion
 
 
 
