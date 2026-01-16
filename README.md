@@ -11,6 +11,14 @@ Each file includes:
 
 - var vs let vs const
 - dataType and Type Coersion
+- Operators & Comparisons
+- 
+- 
+- 
+- 
+- 
+- 
+
 
 
 
