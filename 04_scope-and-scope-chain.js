@@ -237,6 +237,137 @@ function test() {
 }
 test(); // 5 (scope chain)
 
+
+/*
+============================================================
+🔥 Scope & Scope Chain – Interview Questions
+============================================================
+*/
+
+// Q1️⃣ Global vs Local Scope
+let x1 = 10;
+
+function foo1() {
+  let x1 = 20;
+  console.log(x1);
+}
+
+foo1();          // 20
+console.log(x1); // 10
+// Explanation: Local scope variable shadows global one
+
+
+// Q2️⃣ Scope Chain Lookup
+let a2 = 5;
+
+function outer2() {
+  let b2 = 10;
+
+  function inner2() {
+    console.log(a2 + b2);
+  }
+
+  inner2();
+}
+
+outer2(); // 15
+// Explanation: inner → outer → global (scope chain)
+
+
+// Q3️⃣ Function Scope (var)
+function test3() {
+  if (true) {
+    var x3 = 100;
+  }
+  console.log(x3);
+}
+
+test3(); // 100
+// Explanation: var is function scoped
+
+
+// Q4️⃣ Block Scope (let)
+function test4() {
+  if (true) {
+    let x4 = 50;
+  }
+  // console.log(x4); // ReferenceError
+}
+
+test4();
+// Explanation: let is block scoped
+
+
+// Q5️⃣ Shadowing
+let value5 = "global";
+
+function test5() {
+  let value5 = "local";
+  console.log(value5);
+}
+
+test5();           // "local"
+console.log(value5); // "global"
+// Explanation: Inner variable shadows outer variable
+
+
+// Q6️⃣ Illegal Shadowing
+let a6 = 10;
+
+{
+  // var a6 = 20; // ❌ SyntaxError
+}
+// Explanation: let/const cannot be shadowed by var
+
+
+// Q7️⃣ Lexical Scope
+function outer7() {
+  let x7 = 99;
+
+  function inner7() {
+    console.log(x7);
+  }
+
+  return inner7;
+}
+
+const fn7 = outer7();
+fn7(); // 99
+// Explanation: Function remembers lexical environment
+
+
+// Q8️⃣ Scope Chain Failure
+function parent8() {
+  function child8() {
+    let secret = "hidden";
+  }
+  // console.log(secret); // ReferenceError
+}
+
+parent8();
+// Explanation: Parent cannot access child's scope
+
+
+// Q9️⃣ Global Variable Leak
+function test9() {
+  leakedVar = 100; // ❗ no let/var/const
+}
+
+test9();
+console.log(leakedVar); // 100
+// Explanation: Becomes global (bad practice)
+
+
+// Q🔟 Block Scope in Loops
+for (let i = 0; i < 3; i++) {
+  setTimeout(() => {
+    console.log(i);
+  }, 1000);
+}
+// Output: 0 1 2
+// Explanation: let creates new block scope for each iteration
+
+
 /*
 ------------------------------------------------------------
 🎯 Final Interview Summary
