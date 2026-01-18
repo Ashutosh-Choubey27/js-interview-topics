@@ -13,7 +13,7 @@ Each file includes:
 - dataType and Type Coersion
 - Operators & Comparisons
 - scope-and-scope-chain
- 
+- hoisting 
 
 
 
