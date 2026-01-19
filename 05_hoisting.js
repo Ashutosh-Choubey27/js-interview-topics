@@ -227,7 +227,8 @@ var testFunc;
 ✔ var is hoisted & initialized with undefined
 ✔ let & const are hoisted but in TDZ
 ✔ Function declarations are fully hoisted
-✔ Function expressions are NOT hoisted
+✔ Function expressions are hoisted as variables,
+   not as functions. Hoisting depends on var / let / const.
 ✔ TDZ prevents unsafe access
 */
 
@@ -241,6 +242,15 @@ var testFunc;
 declarations are allocated memory before code execution.
 var is initialized with undefined, while let and const stay
 in Temporal Dead Zone until initialization."
-*/
 
+
+“Arrow functions function declaration ki tarah hoist nahi hote,
+lekin agar arrow function var ke saath declare ho, to variable hoist hota hai aur undefined se 
+initialize hota hai.
+Isliye call karne par TypeError aata hai.”
+
+
+Hoisting variable ka hota hai, function body ka nahi (except function declarations)
+
+*/
 console.log("✅ Hoisting - Completed");
