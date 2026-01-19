@@ -14,6 +14,7 @@ Each file includes:
 - Operators & Comparisons
 - scope-and-scope-chain
 - hoisting 
+- Temporal Dead Zone
 
 
 
