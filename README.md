@@ -1,20 +1,25 @@
+
 ## JavaScript Interview Topics
 
 This repository contains topic-wise JavaScript interview preparation.
 
-Each file includes:
-- Theory
-- Code examples
-- Common interview traps
+Each file 📂 includes:
 
-### Topics Covered
+📚 Theory
+🧑‍💻 Code examples
+🫤 Common interview traps
 
-- var vs let vs const
-- dataType and Type Coersion
-- Operators & Comparisons
-- scope-and-scope-chain
-- hoisting 
-- Temporal Dead Zone
+ ### Topics Covered
+
+ 1️⃣ var vs let vs const
+ 2️⃣ dataType and Type Coersion
+ 3️⃣ Operators & Comparisons
+ 4️⃣ scope-and-scope-chain
+ 5️⃣ hoisting 
+
+ 6️⃣ Temporal Dead Zone
+ 7️⃣ Execution Context
+ 
 
 
 
