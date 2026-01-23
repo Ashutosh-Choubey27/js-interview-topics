@@ -22,6 +22,7 @@ Each file 📂 includes:
  - 8️⃣ Function and Function Type
  - 9️⃣ this keyword in JS
  
+ - 1️⃣0️⃣ call, bind and apply
 
 
 
