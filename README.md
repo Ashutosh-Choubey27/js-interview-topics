@@ -20,6 +20,7 @@ Each file 📂 includes:
  - 6️⃣ Temporal Dead Zone
  - 7️⃣ Execution Context
  - 8️⃣ Function and Function Type
+ - 9️⃣ this keyword in JS
  
 
 
