@@ -23,6 +23,7 @@ Each file 📂 includes:
  - 9️⃣ this keyword in JS
  
  - 1️⃣0️⃣ call, bind and apply
+ - 1️⃣1️⃣ closures
 
 
 
