@@ -25,6 +25,7 @@ Each file 📂 includes:
  - 1️⃣0️⃣ call, bind and apply
  - 1️⃣1️⃣ closures
  - 1️⃣2️⃣ lexical environment
+ - 1️⃣3️⃣ currying
 
 
 
