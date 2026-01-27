@@ -26,6 +26,7 @@ Each file 📂 includes:
  - 1️⃣1️⃣ closures
  - 1️⃣2️⃣ lexical environment
  - 1️⃣3️⃣ currying
+ - 1️⃣4️⃣ event loop
 
 
 
