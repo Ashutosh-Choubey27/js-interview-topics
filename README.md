@@ -27,6 +27,7 @@ Each file 📂 includes:
  - 1️⃣2️⃣ lexical environment
  - 1️⃣3️⃣ currying
  - 1️⃣4️⃣ event loop
+ - 1️⃣5️⃣ callbacks
 
 
 
