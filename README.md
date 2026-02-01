@@ -32,7 +32,7 @@ Each file 📂 includes:
  - 1️⃣6️⃣ Promises
  - 1️⃣7️⃣ Async & Await
  - 1️⃣8️⃣ microtask_vs_macrotask
- - 1️⃣9️⃣
+ - 1️⃣9️⃣ objects and object method
  - 2️⃣0️⃣
  
  - 2️⃣1️⃣
