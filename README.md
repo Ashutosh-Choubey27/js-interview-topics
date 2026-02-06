@@ -35,7 +35,7 @@ Each file 📂 includes:
  - 1️⃣9️⃣ objects and object method
  - 2️⃣0️⃣ prototypes & prototype Chain
  
- - 2️⃣1️⃣
+ - 2️⃣1️⃣ Classes & Inheritance (ES6)
  - 2️⃣2️⃣
  - 2️⃣3️⃣
  - 2️⃣4️⃣
