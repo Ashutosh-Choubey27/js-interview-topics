@@ -36,7 +36,7 @@ Each file 📂 includes:
  - 2️⃣0️⃣ prototypes & prototype Chain
  
  - 2️⃣1️⃣ Classes & Inheritance (ES6)
- - 2️⃣2️⃣
+ - 2️⃣2️⃣ Encapsulation, Abstraction, Polymorphism (JS)
  - 2️⃣3️⃣
  - 2️⃣4️⃣
  - 2️⃣5️⃣
