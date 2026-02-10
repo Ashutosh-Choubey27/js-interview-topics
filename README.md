@@ -38,7 +38,7 @@ Each file 📂 includes:
  - 2️⃣1️⃣ Classes & Inheritance (ES6)
  - 2️⃣2️⃣ Encapsulation, Abstraction, Polymorphism (JS)
  - 2️⃣3️⃣ array methods deep dive
- - 2️⃣4️⃣
+ - 2️⃣4️⃣ string methods deep dive
  - 2️⃣5️⃣
  
  - 2️⃣6️⃣
