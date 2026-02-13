@@ -41,8 +41,8 @@ Each file 📂 includes:
  - 2️⃣4️⃣ string methods deep dive
  - 2️⃣5️⃣ map filter reduce (with POLYFILLS)
  
- - 2️⃣6️⃣
- - 2️⃣7️⃣
+ - 2️⃣6️⃣ shallow copy vs deep copy
+ - 2️⃣7️⃣ dom & event Delegation
  - 2️⃣8️⃣
  - 2️⃣9️⃣
  - 3️⃣0️⃣
