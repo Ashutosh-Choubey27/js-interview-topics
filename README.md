@@ -45,7 +45,7 @@ Each file 📂 includes:
  - 2️⃣7️⃣ dom & event Delegation
  - 2️⃣8️⃣ memory leaks & garbage Collector
  - 2️⃣9️⃣ modules commonjs vs esmodules
- - 3️⃣0️⃣
+ - 3️⃣0️⃣ debounce and throttle
 
 
 
