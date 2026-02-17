@@ -46,7 +46,15 @@ Each file 📂 includes:
  - 2️⃣8️⃣ memory leaks & garbage Collector
  - 2️⃣9️⃣ modules commonjs vs esmodules
  - 3️⃣0️⃣ debounce and throttle
-
-
+ 
+ - 3️⃣1️⃣ new keyword internal working
+ - 3️⃣2️⃣
+ - 3️⃣3️⃣
+ - 3️⃣4️⃣
+ 
+ - 3️⃣5️⃣
+ - 3️⃣6️⃣
+ - 3️⃣7️⃣
+ - 3️⃣8️⃣
 
 
