@@ -48,7 +48,7 @@ Each file 📂 includes:
  - 3️⃣0️⃣ debounce and throttle
  
  - 3️⃣1️⃣ new keyword internal working
- - 3️⃣2️⃣
+ - 3️⃣2️⃣ promise API deepdive
  - 3️⃣3️⃣
  - 3️⃣4️⃣
  
