@@ -50,7 +50,7 @@ Each file 📂 includes:
  - 3️⃣1️⃣ new keyword internal working
  - 3️⃣2️⃣ promise API deepdive
  - 3️⃣3️⃣ setTimeout Internals
- - 3️⃣4️⃣
+ - 3️⃣4️⃣ event propagation deep dive
  
  - 3️⃣5️⃣
  - 3️⃣6️⃣
