@@ -52,7 +52,7 @@ Each file 📂 includes:
  - 3️⃣3️⃣ setTimeout Internals
  - 3️⃣4️⃣ event propagation deep dive
  
- - 3️⃣5️⃣
+ - 3️⃣5️⃣ memoization
  - 3️⃣6️⃣
  - 3️⃣7️⃣
  - 3️⃣8️⃣
