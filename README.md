@@ -7,20 +7,20 @@ Each file 📂 includes:
 
 - 📚 Theory
 - 🧑‍💻 Code examples
-- 🫤 Common interview traps
+- ☠️ Common interview traps
 
  ### Topics Covered
 
- - 1️⃣ var vs let vs const
+ - 1️⃣ Var v/s Let v/s Const
  - 2️⃣ dataType and Type Coersion
  - 3️⃣ Operators & Comparisons
- - 4️⃣ scope-and-scope-chain
+ - 4️⃣ scope and scope Chain
  - 5️⃣ hoisting 
 
- - 6️⃣ Temporal Dead Zone
+ - 6️⃣ Temporal Dead Zone (TDZ)
  - 7️⃣ Execution Context
  - 8️⃣ Function and Function Type
- - 9️⃣ this keyword in JS
+ - 9️⃣ "this" keyword in JS
  
  - 1️⃣0️⃣ call, bind and apply
  - 1️⃣1️⃣ closures
@@ -31,7 +31,7 @@ Each file 📂 includes:
  
  - 1️⃣6️⃣ Promises
  - 1️⃣7️⃣ Async & Await
- - 1️⃣8️⃣ microtask_vs_macrotask
+ - 1️⃣8️⃣ microTask v/s macroTask Queue
  - 1️⃣9️⃣ objects and object method
  - 2️⃣0️⃣ prototypes & prototype Chain
  
@@ -39,7 +39,7 @@ Each file 📂 includes:
  - 2️⃣2️⃣ Encapsulation, Abstraction, Polymorphism (JS)
  - 2️⃣3️⃣ array methods deep dive
  - 2️⃣4️⃣ string methods deep dive
- - 2️⃣5️⃣ map filter reduce (with POLYFILLS)
+ - 2️⃣5️⃣ map, filter, reduce (with POLYFILLS)
  
  - 2️⃣6️⃣ shallow copy vs deep copy
  - 2️⃣7️⃣ dom & event Delegation
@@ -54,7 +54,7 @@ Each file 📂 includes:
  
  - 3️⃣5️⃣ memoization
  - 3️⃣6️⃣ polyfills master file
- - 3️⃣7️⃣
- - 3️⃣8️⃣
+ - 3️⃣7️⃣ weakMap v/s Map
+ - 3️⃣8️⃣ generator function
 
 
